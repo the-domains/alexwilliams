@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Alexander]]></title>
         <description><![CDATA[Alexander]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexwilliams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 23:19:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexwilliams/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa018933-e4c1-495b-9e49-f5be10a26577.jpg">]]></description>
-            <link>undefined274db520-c7c9-45b4-a422-519fcc473a38/index.html</link>
+            <link>https://thegrid.ai/alexwilliams/274db520-c7c9-45b4-a422-519fcc473a38/index.html</link>
             <guid isPermaLink="false">274db520-c7c9-45b4-a422-519fcc473a38</guid>
             <pubDate>Sun, 10 Jan 2016 23:15:32 GMT</pubDate>
         </item>
