@@ -1,0 +1,28 @@
+name: AlexWilliams
+favicon: null
+layout_spectrum: 0.8975444284733385
+typography_spectrum: 0.9471601136028767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6832460418809205
+  lightness: 0.15973943541757762
+  saturation: 0.918603356461972
+  rhythmicContrast: 0.5192743742372841
+purpose: []
